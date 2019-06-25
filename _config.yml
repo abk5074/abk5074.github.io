@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alexander B. Kinney"
 title_separator          : "-"
-name                     : &name "Yongjun Zhang"
+name                     : &name "Alexander B. Kinney"
 description              : &description "PhD Candidate, School of Sociology, The University of Arizona"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Alexander B. Kinney"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Candidate, School of Sociology, The University of Arizona"
   location         : "Tucson, AZ"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=XTYA3TUAAAAJ&hl=en&authuser=1"
-  email            :
+  email            : "abk5074@email.arizona.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
