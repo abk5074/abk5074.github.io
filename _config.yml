@@ -7,19 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander B. Kinney"
+title                    : "Yongjun Zhang"
 title_separator          : "-"
-name                     : &name "Alexander B. Kinney"
-description              : &description "PhD Candidate, School of Sociology, The University of Arizona"
+name                     : &name "Yongjun Zhang"
+description              : &description "Sociologist. ABD at UofA."
 url                      : https://joshzyj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "abk5074/abk5074.github.io"
+repository               : "joshzyj/joshzyj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -73,21 +71,20 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-97447130-1
 
 
 # Site Author
 author:
-  name             : "Alexander B. Kinney"
+  name             : #"Yongjun Zhang"
   avatar           : "profile.png"
-  bio              : "PhD Candidate, School of Sociology, The University of Arizona"
-  location         : "Tucson, AZ"
+  bio              : "Sociology ABD at UofA."
+  location         : "Tucson, Arizona"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=XTYA3TUAAAAJ&hl=en&authuser=1"
-  email            : "abk5074@email.arizona.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3t2vqB0AAAAJ"
+  email            : "yongjunzhang@email.arizona.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "joshzyj"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-2916-1791"
+  orcid            : "https://orcid.org/0000-0002-8265-925X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  twitter          : "joshzyj"
   vine             :
   weibo            :
   xing             :
@@ -127,23 +124,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -257,7 +253,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
