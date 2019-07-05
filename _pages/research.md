@@ -7,7 +7,7 @@ author_profile: true
 
 My research makes use of both qualitative methods and computationally assisted inductive modeling techniques to explore the institutional dynamics of contested fields. In particular, my work explores semi-legal and fully illegal organizations, markets, and financial instruments in an effort to understand how the absence of important institutional conditions leads to concrete social outcomes.
 
-### The Gray-Market for Cannabis in The United States
+### The Gray Market for Cannabis in The United States
 
 I am particularly interested in understanding the social transformation of the cannabis market in the United States. As an industry that is currently criminalized at the Federal level and being propelled forward as a commercial enterprise by disparate state laws, it provides a unique opportunity to explore some of the more vexing questions that remain in institutional theory concerning how micro-level behavior abstracts to the field-level to create enduring social structure.
 
