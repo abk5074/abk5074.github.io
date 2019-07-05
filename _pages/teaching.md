@@ -13,7 +13,7 @@ Truly the foundation of the discipline, this course is particularly enjoyable fo
 
 ### Criminology
 
-It is important for social scientists to remain vigilent in providing robust criminological training to students in order to understand the backbone of policies, practices, and outcomes of the criminal justice system. This course makes use of intensive theoretical exercises and semester capstone project aimed at developing a local-level policy critique. My goal for this course is to have students understand crime as a both a structural and cultural process in order to understand the criminal justice system as an institution. The policy critique project is intentionally designed to target local-level policies to facilitate the connection between the University and community engagement.
+It is important for social scientists to remain vigilent in providing robust criminological training to students in order to understand the backbone of policies, practices, and outcomes of the criminal justice system. This course makes use of intensive theoretical exercises and semester capstone project aimed at developing a local-level policy critique. My goal for this course is to have students conceptualize crime as a both a structural and cultural process in order to understand the criminal justice system as an institution. The policy critique project is intentionally designed to interrogate policies affecting their immmediate lives to facilitate the connection between their coursework and direct community engagement.
 
 ### Independent Study
 
