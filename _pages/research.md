@@ -18,7 +18,7 @@ Additionally, these interviews provide a data foundation for a national survey o
 
 ### Frameworks of Value Among Cryptocurrency Adopters
 
-Another line of research I am actively pursuing is attempting to explore the boundaries between symbolic and non-symbolic value systems among adopters of cryptocurrencies. I began this project in 2015-2016 by collecting semi-structured interviews with early adopters of the popular cryptocurrency Bitcoin in order to understand how both traditional economic value and symbolic values are tethered in alternative money systems. Through this I have demonstrated the process for embedding into alternative money systems and how unique schemas emerge out of this community to produce extra-institutional logics of alternative money use.
+Another line of research I am actively pursuing is attempting to explore the boundaries between symbolic and non-symbolic value systems among adopters of cryptocurrencies. I began this project in 2015-2016 by collecting semi-structured interviews with early adopters of the popular cryptocurrency Bitcoin in order to understand how both traditional economic value and symbolic values are tethered in alternative money systems. Through this I have demonstrated how unique schemas emerge out of this community to produce extra-institutional logics of alternative money use. [Social Currents (forthcoming)]. Addidtionally, this work has revealed that embedding into alternative money systems follows a distinct reflexive process.
 
 ### The Organizational Dynamics of Terrorist Regimes and Contested States
 
