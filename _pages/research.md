@@ -24,5 +24,5 @@ Another line of research I am actively pursuing is attempting to explore the bou
 
 This line of research explores how organized groups engaged in contentious politics produce social artifacts through their struggle for legitimacy. 
 
-With Andrew P. Davis and Yongjun Zhang, I leveraged multiple techniques built from Latent Dirichlet Allocation (LDA) topic modeling to demonstrate how terrorist organizations deploy vastly different frameworks to recruit participants despite struggling for similar causes that consequently result in scholars categorizing these organizations into the same niche in for research. [Poetics 2018](https://www-sciencedirect-com.ezproxy4.library.arizona.edu/science/article/pii/S0304422X17301456) 
+With Andrew P. Davis and Yongjun Zhang, I leveraged multiple techniques built from Latent Dirichlet Allocation (LDA) topic modeling to demonstrate how terrorist organizations deploy vastly different frameworks to recruit participants despite struggling for similar causes that consequently result in scholars categorizing these organizations into the same niche in for research. This research has been published in [Poetics](https://www-sciencedirect-com.ezproxy4.library.arizona.edu/science/article/pii/S0304422X17301456). 
 
