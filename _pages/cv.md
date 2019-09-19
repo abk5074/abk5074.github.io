@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download Alexander B. Kinney's CV](https://alexanderkinney.com/files/CV2019.pdf)
+[Download Alexander B. Kinney's CV](https://www.alexanderkinney.com/files/CV2019.pdf)
 
 
