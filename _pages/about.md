@@ -12,5 +12,5 @@ I am a mixed methods sociologist focused on theory generating studies of institu
 
 [Download Alexander B. Kinney's CV Here.](https://www.alexanderkinney.com/files/CV19.pdf)
 
-If you are looking for access to the Survey of Cannabis Professionals in the United States click [here](https://uarizona.co1.qualtrics.com/jfe/form/SV_9RKM223S1rk4F4V)
+If you are looking for access to the Survey of Cannabis Professionals in the United States click [here](https://uarizona.co1.qualtrics.com/jfe/form/SV_9RKM223S1rk4F4V).
 
