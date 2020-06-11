@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-I take a learner-centered approach to teaching that incorporates cutting edge pedagogical technologies to facilitate instruction. In addition to university courses, I also enjoy working with promising students to provide independent study research opportunities and mentorship. To date, I have been the instructor of record for online courses in Introduction to Sociology and Criminology. I have also been the instructor of record for in-person Independent Study courses for students interested in learning the research process. Course evaluations and syllabi are available upon request.
+I take a learner-centered approach to teaching that incorporates cutting edge pedagogical tools to facilitate instruction. In addition to standard university courses, I also enjoy working with promising students to provide independent study research opportunities and mentorship. To date, I have been the instructor of record for online courses in Introduction to Sociology and Criminology. I have also been the instructor of record for in-person Independent Study courses for students interested in learning the research process. Course evaluations and syllabi are available upon request.
 
 
 ### Introduction to Sociology
