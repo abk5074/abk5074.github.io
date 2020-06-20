@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research makes use of both qualitative methods and computationally assisted inductive modeling techniques to explore the institutional dynamics of contested fields. In particular, my work explores semi-legal and fully illegal organizations, markets, and financial instruments in an effort to understand how the absence of important institutional conditions leads to concrete social outcomes.
+My research takes an inductive approach that integrates computational and qualitative methods to explore the institutional dynamics of contested fields. I am particularly focused on analyzing semi-legal markets, organizations, and financial instruments to understand how the absence of important institutional conditions leads to concrete social outcomes. Additionally, I also maintain a research program devoted to using automated text analysis to understand various dimensions of political violence.
 
 ### Commercial Cannabis in The United States
 
@@ -18,13 +18,16 @@ Thus far, two working papers have emerged from this project. The first paper ent
 
 The second paper entitled "Surveillance Regimes, Social Control, and Managing Semi-Legitimacy in the U.S. Commercial Cannabis Industry" theorizes commercial cannabis as "gray market" because it operates as a state-legal enterprise that stands in opposition to federal precedent. Given this assumption, this article draws on the interviews from the first phase of the project to explore how cannabis professionals manage their semi-legitimate status. Findings demonstrate that each state deploys a unique surveillance regime that is tethered to the specific regulatory agency (or agencies) responsible for enforcing commercial cannabis regulations. However, in addition to operating as core technologies of social control that structure commercial cannabis in meaningful ways, these surveillance regimes also operate as a type of heuristic for cannabis professionals to identify how to stay in compliance and manage semi-legitimacy through their business practices. This paper is currently under review and available upon request. 
  
+### Automated Text Analysis and Political Violence
+
+I maintain a parallel research program that utilizes automated text analysis to explore the causes and consequences of various dimensions of political violence. 
+
+With colleagues Andrew P. Davis and Yongjun Zhang, I leveraged Latent Dirichlet Allocation (LDA) topic modeling to demonstrate that despite sharing similar religious motivations, Al-Qaeda in the Arabian Peninsula (AQAP) and the Islamic State of Iraq and Syria (ISIS) deploy different recruitment frameworks that focus on dissimilar goals. This finding challenges a common research practice of uncritically grouping terrorist organizations into the same niche based on abstract categories such as religion or region, and argues that by focusing on more fine grained characteristics such as goals, we gain a richer understanding of the motivations and outcomes of terrorist activity. Additionally, this article demonstrates the efficacy of topic modeling for comparative analysis in low-N studiesl This research has been published in [Poetics](https://www.sciencedirect.com/science/article/abs/pii/S0304422X17301456).
+
+
 ### Frameworks of Value Among Cryptocurrency Adopters
 
-A previous line of research I pursued was exploring the boundaries between symbolic and non-symbolic value systems among adopters of cryptocurrencies. I began this project in 2015-2016 by collecting semi-structured interviews with early adopters of the popular cryptocurrency Bitcoin in order to understand how both traditional economic value and symbolic values are tethered in alternative money systems. Through this I have demonstrated how unique schemas emerge out of this community to produce extra-institutional logics of alternative money use. This research is published in [Social Currents](https://journals.sagepub.com/doi/full/10.1177/2329496519880314). Additionally, this project has revealed that embedding into alternative money systems follows a patterned and reflexive process. This research is forthcoming in [Sociological Focus](https://www.tandfonline.com/toc/usfo20/current).
+A previous line of research I pursued explored the boundaries between symbolic and non-symbolic value systems among adopters of cryptocurrencies. I began this project in 2015-2016 by collecting semi-structured interviews with early adopters of the popular cryptocurrency Bitcoin in order to understand how traditional economic value and symbolic values are tethered in an alternative money system that is not sanctioned by any government. I demonstrated how unique value schemas or "extra-institutional logics" emerged out of this community that supported Bitcoin during a market downturn despite being predicated on dissimilar visions about the future of the system. This research is published in [Social Currents](https://journals.sagepub.com/doi/full/10.1177/2329496519880314). Additionally, this project has revealed that embedding into alternative money systems follows a patterned and reflexive process. This research is forthcoming in [Sociological Focus](https://www.tandfonline.com/toc/usfo20/current).
 
-### The Organizational Dynamics of Terrorist Regimes and Contested States
 
-This line of research explores how organized groups engaged in contentious politics produce social artifacts through their struggle for legitimacy. 
-
-With Andrew P. Davis and Yongjun Zhang, I leveraged multiple techniques built from Latent Dirichlet Allocation (LDA) topic modeling to demonstrate how terrorist organizations deploy vastly different frameworks to recruit participants despite struggling for similar causes that consequently result in scholars categorizing these organizations into the same niche in for research. This research has been published in [Poetics](https://www-sciencedirect-com.ezproxy4.library.arizona.edu/science/article/pii/S0304422X17301456). 
 
