@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a mixed methods sociologist focused on theory generating studies of institutional change. Broadly, I work at the theoretical intersection of crime, law, and society, organizational theory, and economic sociology to explore how micro-level behavior translates into the emergence of structure in unsettled fields. Specifically, I focus on how individuals and organizations shape the trajectory of semi-legal markets. My current research centers on how semi-legality becomes a source of professional power and constraint within commercial cannabis industry in the United States. 
+I am a mixed methods sociologist focused on theory generating studies of institutional change. Broadly, I work at the theoretical intersection of crime, law, and society, organizational theory, and economic sociology to explore how micro-level behavior translates into the emergence of structure in unsettled fields. Specifically, I focus on how individuals and organizations shape the trajectory of semi-legal markets. My current research centers on how semi-legality becomes a source of professional power and constraint within the U.S. commercial cannabis industry. 
 
 In addition to this project, I maintain an active research agenda exploring the diffusion of human rights discourse through international peace treaties and the structural outcomes of civil conficts.   
 
