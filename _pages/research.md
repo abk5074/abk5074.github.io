@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research takes an inductive approach that integrates computational and qualitative methods to explore the institutional dynamics of contested fields. I am particularly focused on analyzing semi-legal markets, organizations, and financial instruments to understand how the absence of important institutional conditions leads to concrete social outcomes. Additionally, I also maintain a research program devoted to using automated text analysis to understand various dimensions of political violence.
+My research takes an inductive approach that integrates computational and qualitative methods to explore the institutional dynamics of contested fields. I focus on analyzing semi-legal markets, organizations, and financial instruments to understand how the absence of important institutional conditions leads to concrete social outcomes. Additionally, I also maintain a research program devoted to using automated text analysis to understand various dimensions of political violence.
 
 ### Commercial Cannabis in The United States
 
@@ -22,8 +22,7 @@ The second paper entitled "Surveillance Regimes, Social Control, and Managing Se
 
 I maintain a parallel research program that utilizes automated text analysis to explore the causes and consequences of various dimensions of political violence. 
 
-With colleagues Andrew P. Davis and Yongjun Zhang, I leveraged Latent Dirichlet Allocation (LDA) topic modeling to demonstrate that despite sharing similar religious motivations, Al-Qaeda in the Arabian Peninsula (AQAP) and the Islamic State of Iraq and Syria (ISIS) deploy different recruitment frameworks that focus on dissimilar goals. This finding challenges a common research practice of uncritically grouping terrorist organizations into the same niche based on abstract categories such as religion or region, and argues that by focusing on more fine grained characteristics such as goals, we gain a richer understanding of the motivations and outcomes of terrorist activity. Additionally, this article demonstrates the efficacy of topic modeling for comparative analysis in low-N studiesl This research has been published in [Poetics](https://www.sciencedirect.com/science/article/abs/pii/S0304422X17301456).
-
+With colleagues Andrew P. Davis and Yongjun Zhang, I leveraged Latent Dirichlet Allocation (LDA) topic modeling to demonstrate that despite sharing similar religious motivations, Al-Qaeda in the Arabian Peninsula (AQAP) and the Islamic State of Iraq and Syria (ISIS) deploy different recruitment frameworks that focus on dissimilar goals. This finding challenges a common research practice of uncritically grouping terrorist organizations into the same niche based on abstract categories such as religion or region, and argues that by focusing on more fine grained characteristics such as goals, we gain a richer understanding of the motivations and outcomes of terrorist activity. Additionally, this article demonstrates the efficacy of topic modeling for comparative analysis in low-N studies This research has been published in [Poetics](https://www.sciencedirect.com/science/article/abs/pii/S0304422X17301456).
 
 ### Frameworks of Value Among Cryptocurrency Adopters
 
