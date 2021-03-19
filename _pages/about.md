@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a mixed methods sociologist focused on studies of institutional change. Broadly, I work at the theoretical intersection of criminology, organizational theory, and economic sociology to explore the emergence of structure in unsettled fields. Specifically, I focus on how semi-legality is a professional asset and liability in emerging markets. My current research explores the contexts of commercial cannabis in the United States to understand how the conflict between state laws and federal precedent centers cannabis businesses in the process of cannabis policy revisions.
+I am a mixed methods sociologist focused on studies of institutional change. Broadly, I work at the theoretical intersection of criminology, organizational theory, and economic sociology to explore the emergence of structure in unsettled fields. Specifically, I focus on how semi-legality is a professional asset and liability in emerging markets. My current research explores the contexts of commercial cannabis in the United States to understand how the conflict between state laws and federal precedent influences different mechanisms of social control and centers cannabis businesses in the process of policy revisions.
 
 I am also a Research and Evaluation Specialist at the Pima County Superior Court. In this role, I am a program analyst working to support the Safety & Justice Challenge and Probation Drug Court expansion project. This is a MacArthur Foundation funded position to evaluate the efficacy of pre-indictment diversion programs that are designed to partner with mental health and transitional housing service providers in order to reduce the incarceration rate of non-violent drug offenders in the greater Tucson area.
 
