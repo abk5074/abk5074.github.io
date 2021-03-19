@@ -12,7 +12,7 @@ I am a mixed methods sociologist focused on studies of institutional change. Bro
 
 In addition to this project, I maintain an active research agenda exploring the dynamics of politically motivated violence using various approaches to automated text analysis.   
 
-My research has been published in [Poetics](https://doi.org/10.1016/j.poetic.2018.05.001), [Social Currents](https://journals.sagepub.com/doi/full/10.1177/2329496519880314), [Sociological Inquiry](https://onlinelibrary.wiley.com/doi/full/10.1111/soin.12409), and is forthcoming in [Sociological Focus](https://www.tandfonline.com/toc/usfo20/current).
+My research has been published in [Poetics](https://doi.org/10.1016/j.poetic.2018.05.001), [Social Currents](https://journals.sagepub.com/doi/full/10.1177/2329496519880314), [Sociological Inquiry](https://onlinelibrary.wiley.com/doi/full/10.1111/soin.12409), and [Sociological Focus](https://www.tandfonline.com/doi/full/10.1080/00380237.2020.1845260).
 
 [Download Alexander B. Kinney's CV Here.](https://www.alexanderkinney.com/files/CV21.pdf) 
 
