@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-I take a learner-centered approach to teaching that incorporates cutting edge pedagogical tools to facilitate instruction. In addition to standard university courses, I also enjoy working with promising students to provide independent study research opportunities and mentorship. To date, I have been the instructor of record for online courses in Criminology and Introduction to Sociology. I have also volunteered my time as a research mentor in the Integrated Social Sciences Research Lab at Penn State - Altoona, and have been the instructor of record for in-person Independent Study courses to facilitate undergraduate student research. Course evaluations and syllabi are available upon request.
+I take a learner-centered approach to teaching that incorporates cutting edge pedagogical tools to facilitate instruction. To date, I have been the instructor of record for online courses in Criminology and Introduction to Sociology. I have also volunteered my time as a research mentor in the Integrated Social Sciences Research Lab at Penn State - Altoona, and have been the instructor of record for in-person Independent Study courses to facilitate undergraduate student research. Course evaluations and syllabi are available upon request.
 
 
 ### Criminology
