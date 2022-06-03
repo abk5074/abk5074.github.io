@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander B. Kinney"
+  name             : "Alexander B. Kinney Ph.D."
   avatar           : "professional.jpeg"
-  bio              : "PhD Candidate, School of Sociology, The University of Arizona"
-  location         : "Tucson, AZ"
+  bio              : "Assistant Professor, Department of Criminal Justice and Criminology, Sam Houston State University"
+  location         : "Huntsville, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=XTYA3TUAAAAJ&hl=en&authuser=1"
   email            : "abk5074@email.arizona.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Alexander-Kinney"
   uri              :
   bitbucket        :
   codepen          :
