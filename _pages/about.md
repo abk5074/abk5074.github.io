@@ -13,6 +13,6 @@ I am a sociologist that utilizes mixed methods to study gray markets and the dyn
 
 In the Fall of 2022, I will be joining the [Department of Criminal Justice and Criminology](https://www.shsu.edu/academics/cj-crim/) at Sam Houston State University as an Assistant Professor. Formerly, I worked as a Research & Evaluation Specialist at the Pima County Superior Court to conduct process and outcome evaluations of pre-indictment diversion programs in the greater Tucson area. 
 
-My research has been published in [Poetics](https://doi.org/10.1016/j.poetic.2018.05.001), [Sociological Inquiry](https://onlinelibrary.wiley.com/doi/full/10.1111/soin.12409), [Social Currents](https://journals.sagepub.com/doi/full/10.1177/2329496519880314), [Sociological Focus](https://www.tandfonline.com/doi/full/10.1080/00380237.2020.1845260), and [Sociological Perspectives](https://journals.sagepub.com/doi/full/10.1177/07311214211028616). My forthcoming piece "Surveillance, Social Control, and Managing Semi-Legality in U.S. Commercial Cannabis" is set to be published in [Social Problems](https://academic.oup.com/socpro). Please email me if you are interested in reading the article before it is in print.
+My most recent article "Surveillance, Social Control, and Managing Semi-Legality in U.S. Commercial Cannabis" has recently been published online in [Social Problems](https://doi.org/10.1093/socpro/spac037). Please email me if you would like pre-print access.
 
 [Download Alexander B. Kinney's CV Here.](https://www.alexanderkinney.com/files/CV21.pdf) 
