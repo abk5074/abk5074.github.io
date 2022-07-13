@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander B. Kinney Ph.D."
+title                    : "Alexander B. Kinney PhD"
 title_separator          : "-"
 name                     : &name "Alexander B. Kinney"
 description              : &description "Assistant Professor, Department of Criminal Justice and Criminology, Sam Houston State University"
@@ -86,7 +86,7 @@ author:
   location         : "Huntsville, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=XTYA3TUAAAAJ&hl=en&authuser=1"
-  email            : "abk5074@email.arizona.edu"
+  email            : "abk017@shsu.edu"
   researchgate     : "https://www.researchgate.net/profile/Alexander-Kinney"
   uri              :
   bitbucket        :
