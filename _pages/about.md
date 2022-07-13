@@ -15,4 +15,4 @@ I am currently an Assistant Professor in the [Department of Criminal Justice and
 
 My most recent article "Surveillance, Social Control, and Managing Semi-Legality in U.S. Commercial Cannabis" has been published online in [Social Problems](https://doi.org/10.1093/socpro/spac037). Please email me if you would like pre-print access.
 
-[Download Alexander B. Kinney's CV Here.](https://www.alexanderkinney.com/files/CV2022.pdf) 
+[Download Alexander B. Kinney's CV](https://www.alexanderkinney.com/files/CV2022.pdf) 
