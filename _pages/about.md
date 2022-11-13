@@ -13,6 +13,6 @@ I am a sociologist that uses mixed methods to study gray markets and the dynamic
 
 I am currently an Assistant Professor in the [Department of Criminal Justice and Criminology](https://www.shsu.edu/academics/cj-crim/) at Sam Houston State University. Formerly, I worked as a Research & Evaluation Specialist at the Pima County Superior Court to conduct process and outcome evaluations of pre-indictment diversion programs in the greater Tucson area. 
 
-My most recent article "Surveillance, Social Control, and Managing Semi-Legality in U.S. Commercial Cannabis" has been published online in [Social Problems](https://doi.org/10.1093/socpro/spac037). Please email me if you would like pre-print access.
+My most recent article "Surveillance, Social Control, and Managing Semi-Legality in U.S. Commercial Cannabis" has been published online in [Social Problems](https://doi.org/10.1093/socpro/spac037). Please email me if you would like preprint access.
 
 [Download Alexander B. Kinney's CV](https://www.alexanderkinney.com/files/CV2022.pdf) 
