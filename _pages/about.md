@@ -13,6 +13,6 @@ I am a sociologist that uses mixed methods to study gray markets and the dynamic
 
 I am currently an Assistant Professor in the [Department of Criminal Justice and Criminology](https://www.shsu.edu/academics/cj-crim/) at Sam Houston State University. Formerly, I worked as a Research & Evaluation Specialist at the Pima County Superior Court to conduct process and outcome evaluations of pre-indictment diversion programs in the greater Tucson area. 
 
-My most recent article "Sumptuary administration: How contested market actors shape the trajectory of policy when regulated under fragmented governance" has been published online in [Crime & Delinquency](https://journals.sagepub.com/doi/full/10.1177/00111287231193989). Please email me if you would like preprint access.
+My most recent article "“Cannabis Businesses Are Being Good Contributors to the Community”: The Regulated Cannabis Industry and Cannabis Normalization in the United States" has been published online in [Crime & Delinquency](https://journals.sagepub.com/doi/full/10.1177/00111287231193989). Please email me if you would like preprint access.
 
 [Download Alexander B. Kinney's CV](https://www.alexanderkinney.com/files/CV2022.pdf) 
