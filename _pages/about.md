@@ -15,4 +15,4 @@ My research on these topics has been previously been published in Social Problem
 
 I earned my B.A. in Letters, Arts, and Sciences from Penn State-Altoona and my M.A. and Ph.D. in Sociology from the University of Arizona.
 
-[Download Alexander B. Kinney's CV](https://www.alexanderkinney.com/files/CV2022.pdf) 
+[Download Alexander B. Kinney's CV](https://www.alexanderkinney.com/files/CV2024.pdf) 
