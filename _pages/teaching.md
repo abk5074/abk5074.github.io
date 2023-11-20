@@ -10,8 +10,11 @@ I take a learner-centered approach to teaching and have taught in both in-person
 ### Criminology
 
 CRIJ 4382 - Social Deviance (Sam Houston State University)
+
 CRIJ 4377 - Drugs & Society (Sam Houston State University)
+
 CRIJ 2362 - Criminology (Sam Houston State University
+
 SOC 342 - Criminology (The University of Arizona)
 
 ### The Integrative Social Sciences Research Lab (ISSRL)
