@@ -10,7 +10,7 @@ My core research program is centered around studying contested fields of deviant
  
 ### Research on Gray Markets
 
-Kinney, Alexander B. 2023. “‘Cannabis Businesses Are Being Good Contributors to the Community’: The Regulated Cannabis Industry and Cannabis Normalization in the United States.” Crime & Delinquency 00111287231193989. doi: 10.1177/00111287231193989.
+Kinney, Alexander B. 2023. “‘Cannabis Businesses Are Being Good Contributors to the Community’: The Regulated Cannabis Industry and Cannabis Normalization in the United States.” Crime & Delinquency. doi: 10.1177/00111287231193989.
 
 Kinney, Alexander B. 2023. “Sumptuary Administration: How Contested Market Actors Shape the Trajectory of Policy When Regulated under Fragmented Governance.” Law & Policy 45(4):507–29. doi: 10.1111/lapo.12216.
 
