@@ -30,7 +30,7 @@ Pfaffendorf, Jessica, Andrew P. Davis, and Alexander B. Kinney. 2021. “Masculi
 Kinney, Alexander B., Andrew P. Davis, and Yongjun Zhang. 2018. “Theming for Terror: Organizational Adornment in Terrorist Propaganda.” Poetics 69:27–40. doi: 10.1016/j.poetic.2018.05.001.
 
  
-### Research on Prison Commodification and Exploitation
+### Research on the Commodification of Prison Experience
 
 Please [email me](abk017@shsu.edu) for my working papers in this area.
 
