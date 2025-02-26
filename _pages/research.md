@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-My core research program is centered around studying contested fields of deviant behavior. There are three main pillars to this effort. First, I conduct case studies of gray markets to understand how unsettled legal structure shifts power arrangements between state and non-state actors, leads to the emergence of new technologies of social control, and influences the practices of stigmatized organizations. Second, I take a comparative approach to analyzing the cultural dynamics of political violence to reveal the social logics of terrorism and illuminate the factors that lead to specific forms of state-sanctioned punishment. Third, I study companies that privately contract with prisons to understand how the incarcerated and their families are exploited by the commodification of the carceral experience. In my approach to these topics, I commonly integrate formal models of cultural analysis with more traditional interpretive methods. I have expertise in several approaches to computationally-assisted content analysis including topic modeling, correspondence analysis, and visual criminology. 
+My core research program is centered around studying contested fields and contentious politics. There are three main pillars of this effort. First, I conduct case studies of gray markets to understand how unsettled legal structure shifts power arrangements between state and non-state actors, leads to the emergence of new technologies of social control, and influences the practices of stigmatized organizations. Second, I analyze the cultural dynamics of ideological violence to reveal the comparative social logics of terrorism and to illuminate factors that lead to specific forms of state-sanctioned punishment. Third, I study private companies that contract with prisons to deliver essential services to understand how the commodification of the carceral experience exploits the incarcerated, their families, and the public. In my approach to these topics, I employ interpretive methods including formal models of cultural analysis, narrative analysis, and visual sociology. I have expertise in several approaches to computationally-assisted content analysis including topic modeling, correspondence analysis, and pictoral pattern analysis. 
 
  
-### Research on Gray Markets
+### Research on Contested Markets
 
 Kinney, Alexander B. 2024. "Becoming a Cannabis Professional." Sociological Inquiry (Online first)
 
@@ -23,7 +23,7 @@ Kinney, Alexander B. 2021. “Embedding into an Emerging Money System: The Case 
 Kinney, Alexander B. 2019. “The Extra-Institutional Logics of an Emerging Market Field: Values and Practice in the Bitcoin Experience:” Social Currents. doi: 10.1177/2329496519880314.
 
  
-### Research on Political Violence
+### Research on Contentious Politics
 
 Puetz, Kyle, Andrew P. Davis, and Alexander B. Kinney. 2021. “Meaning Structures in the World Polity: A Semantic Network Analysis of Human Rights Terminology in the World’s Peace Agreements.” Poetics 88:101598.
 
