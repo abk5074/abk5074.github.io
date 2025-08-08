@@ -13,6 +13,4 @@ I am an Assistant Professor in the [Department of Sociology](https://www.oberlin
 
 My research has been published in *Social Problems*, *Poetics*, *Law & Policy*, *Crime & Delinquency*, *Sociological Inquiry*, *Sociological Perspectives*, *Sociological Focus*, *Policing*, & *Journal of School Violence*. My most recent article "Becoming a Cannabis Professional" was accepted for publication in [Sociological Inquiry](https://onlinelibrary.wiley.com/doi/full/10.1111/soin.12627). Please [email me](abk017@shsu.edu) if you would like preprint access.
 
-I earned my B.A. in Letters, Arts, and Sciences from Penn State-Altoona and my M.A. and Ph.D. in Sociology from the University of Arizona.
-
 [Download Alexander B. Kinney's CV](https://www.alexanderkinney.com/files/CV2025.pdf) 
