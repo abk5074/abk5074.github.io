@@ -4,10 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-I take a learner-centered approach to teaching and have taught in both in-person and online format. I also co-facilitate the Integrative Social Sciences Research Lab. Please [email me](abk017@shsu.edu) for access to syllabi from previously taught sections of my courses that are listed below.
+I take a learner-centered approach to teaching and have taught in both in-person and online format. I also co-facilitate the Integrative Social Sciences Research Lab. Please [email me](akinney1@oberlin.edu) for access to syllabi from previously taught sections of my courses that are listed below.
 
+SOCI 115 - Introduction to Sociology: Building a "Toolkit" for Social Inquiry (Oberlin College)
 
-### Criminology
+SOCI 215 - Criminology: The Sociology of Crime and Incarcration (Oberlin College)
 
 CRIJ 4382 - Social Deviance (Sam Houston State University)
 
