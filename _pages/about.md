@@ -15,4 +15,4 @@ My research has been published in *Social Problems*, *Poetics*, *Law & Policy*, 
 
 I earned my B.A. in Letters, Arts, and Sciences from Penn State-Altoona and my M.A. and Ph.D. in Sociology from the University of Arizona.
 
-[Download Alexander B. Kinney's CV](https://www.alexanderkinney.com/files/CV2024.pdf) 
+[Download Alexander B. Kinney's CV](https://www.alexanderkinney.com/files/CV2025.pdf) 
