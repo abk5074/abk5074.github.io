@@ -18,7 +18,7 @@ CRIJ 2362 - Criminology (Sam Houston State University)
 
 SOC 342 - Criminology (The University of Arizona)
 
-### The Integrative Social Sciences Research Lab (ISSRL)
+### The Integrative Social Science Research Lab (ISSRL)
 
 The [ISSRL](https://altoona.psu.edu/story/61731/2023/11/28/altoona-criminal-justice-students-present-criminology-conference) is a multi-locational research team based out of Penn State Altoona and Oberlin College. The aim is to facilitate cross-institutional undergraduate research under the supervision of faculty advisors with cross-disciplinary expertise. Originally launched while I was an undergraduate student, I now co-facilitate the ISSRL with Dr. Nathan E. Kruis and Dr. Nicholas J. Rowland. The ISSRL produces award winning undergraduate research that is presented at national and regional conferences. It also professionalizes students by facilitating peer-reviewed publishing opportunities, providing CV development support, workshopping statement of purpose letters, and creating opportunities for scholarly and practitioner networking. 
 
