@@ -8,7 +8,7 @@ I take a learner-centered approach to teaching and have taught in both in-person
 
 SOCI 115 - Introduction to Sociology: Building a "Toolkit" for Social Inquiry (Oberlin College)
 
-SOCI 215 - Criminology: The Sociology of Crime and Incarcration (Oberlin College)
+SOCI 215 - Criminology: The Sociology of Crime and Incarceration (Oberlin College)
 
 CRIJ 4382 - Social Deviance (Sam Houston State University)
 
